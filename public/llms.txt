@@ -1,55 +1,75 @@
-# Business — Generative Engine Optimization Map
+# מוטי מרקט — Generative Engine Optimization Map
+
+> מוטי מרקט is a warm, reliable neighborhood grocery store based in Lod, Israel, offering a wide variety of food products including unique and hard-to-find items that set it apart from typical supermarkets. The brand identity revolves around trust, community, and convenience — a local go-to spot where customers get fast service and good prices. The store has a friendly, approachable personality with a strong local flavor, aiming to feel like 'the neighborhood store everyone loves.' The website should reinforce this sense of reliability and accessibility while highlighting the store's special product selection.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://motimarket.zappy5.app
 מוטי מרקט בלוד הוא המינימרקט השכונתי שתמיד חיכית לו — מחירים טובים, שירות מהיר ומוצרים שלא תמצא בשום סופר אחר. בוא לגלות את ההבדל!
 
 ### קטגוריות מוצרים
-https://example.com/categories
+https://motimarket.zappy5.app/categories
 גלה את כל קטגוריות המוצרים של מוטי מרקט — ממוצרי בסיס ועד פינוקים מיוחדים. קניות נוחות, מגוון עצום ומחירים שלא תאמין. בחר קטגוריה והתחל לקנות!
 
 ### מוצרים מיוחדים
-https://example.com/special-products
+https://motimarket.zappy5.app/special-products
 מחפש מוצרים נדירים ומיוחדים שנעלמים מהמדפים? מוטי מרקט מביא לך פריטים ייחודיים שאף סופרמרקט רגיל לא מציע. גלה את האוצרות שלנו עוד היום!
 
 ### אודות
-https://example.com/about
+https://motimarket.zappy5.app/about
 מוטי מרקט נולד מתוך אהבה לשכונה ולתושביה. הכירו את הצוות שמאחורי החנות שהפכה לבית עבור תושבי לוד — ערכים, מחויבות ושירות שמגיע מהלב.
 
 ### ביקורות
-https://example.com/reviews
+https://motimarket.zappy5.app/reviews
 אלפי לקוחות מרוצים מלוד ומהסביבה כבר גילו למה מוטי מרקט הוא המינימרקט האהוב בשכונה. קראו ביקורות אמיתיות והצטרפו למשפחה שלנו!
 
 ### צור קשר ושאלות נפוצות
-https://example.com/contact
+https://motimarket.zappy5.app/contact
 רוצה לדעת שעות פתיחה, מיקום או לשאול על מוצר מסוים? צור קשר עם מוטי מרקט עכשיו ותקבל מענה מהיר ואישי. כי אצלנו תמיד יש מי שעונה!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://motimarket.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://motimarket.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://motimarket.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מוטי מרקט
+מוטי מרקט is a warm, reliable neighborhood grocery store based in Lod, Israel, offering a wide variety of food products including unique and hard-to-find items that set it apart from typical supermarkets. The brand identity revolves around trust, community, and convenience — a local go-to spot where customers get fast service and good prices. The store has a friendly, approachable personality with a strong local flavor, aiming to feel like 'the neighborhood store everyone loves.' The website should reinforce this sense of reliability and accessibility while highlighting the store's special product selection.
+
+## Services/Products
+- Wide variety of food products
+- Unique/rare products not available everywhere
+- Fast service
+- Affordable prices
+- Special orders
+
+## Target Audience
+- Local residents in Lod looking for a convenient neighborhood grocery store
+- תושבי לוד המקומיים
+- לקוחות מודעים לבריאות
+- מקצוענים עסוקים
+
+## Industry
+Retail / Food & Grocery
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://motimarket.zappy5.app/sitemap.xml
+- **Robots.txt**: https://motimarket.zappy5.app/robots.txt
