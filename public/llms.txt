@@ -1,6 +1,4 @@
-# מוטי מרקט — Generative Engine Optimization Map
-
-> מוטי מרקט is a warm, reliable neighborhood grocery store based in Lod, Israel, offering a wide variety of food products including unique and hard-to-find items that set it apart from typical supermarkets. The brand identity revolves around trust, community, and convenience — a local go-to spot where customers get fast service and good prices. The store has a friendly, approachable personality with a strong local flavor, aiming to feel like 'the neighborhood store everyone loves.' The website should reinforce this sense of reliability and accessibility while highlighting the store's special product selection.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -48,25 +46,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מוטי מרקט
-מוטי מרקט is a warm, reliable neighborhood grocery store based in Lod, Israel, offering a wide variety of food products including unique and hard-to-find items that set it apart from typical supermarkets. The brand identity revolves around trust, community, and convenience — a local go-to spot where customers get fast service and good prices. The store has a friendly, approachable personality with a strong local flavor, aiming to feel like 'the neighborhood store everyone loves.' The website should reinforce this sense of reliability and accessibility while highlighting the store's special product selection.
-
-## Services/Products
-- Wide variety of food products
-- Unique/rare products not available everywhere
-- Fast service
-- Affordable prices
-- Special orders
-
-## Target Audience
-- Local residents in Lod looking for a convenient neighborhood grocery store
-- תושבי לוד המקומיים
-- לקוחות מודעים לבריאות
-- מקצוענים עסוקים
-
-## Industry
-Retail / Food & Grocery
-
+## About Business
 ---
 
 # Additional Resources
